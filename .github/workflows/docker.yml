@@ -21,4 +21,4 @@ jobs:
           context: .
           push: true
           no-cache: true
-          tags: ghcr.io/mariia008/spaceapp:latest
+          tags: ghcr.io/mariia008/spaceapp2:latest
